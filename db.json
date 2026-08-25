@@ -338,5 +338,43 @@
             "rating": 4.6,
             "featured": false
         }
+    ],
+    "marquee": [
+        {
+            "id": "m_001",
+            "text": "New Arrivals: Calacatta Marble"
+        },
+        {
+            "id": "m_002",
+            "text": "Weekly Feature: Modern Geometric Patterns"
+        },
+        {
+            "id": "m_003",
+            "text": "Discover Timeless Tile Designs"
+        },
+        {
+            "id": "m_004",
+            "text": "Premium Style for Every Space"
+        },
+        {
+            "id": "m_005",
+            "text": "Explore the Tessera Collection"
+        },
+        {
+            "id": "m_006",
+            "text": "Transform Your Space, Tile by Tile"
+        },
+        {
+            "id": "m_007",
+            "text": "Find Your Perfect Tile"
+        },
+        {
+            "id": "m_008",
+            "text": "Inspired Designs for Modern Living"
+        },
+        {
+            "id": "m_009",
+            "text": "Elevate Your Space with Tessera"
+        }
     ]
 }
